@@ -2,3 +2,4 @@
 demo-project
 
 Hello World
+Test project
